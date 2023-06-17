@@ -220,7 +220,7 @@ Project Link: [https://github.com/cargonvis/optimal_accommodation_locator](https
 [Jupyter-url]: https://jupyter.org/
 [Folium.org]: https://img.shields.io/badge/Folium-darkgreen?style=for-the-badge&logo=folium&logoColor=white
 [Folium-url]: https://python-visualization.github.io/folium/
-[Pandas.org]: https://img.shields.io/badge/pandas-orange?style=for-the-badge&logo=pandas&logoColor=white
+[Pandas.org]: https://img.shields.io/badge/Pandas-black?logo=pandas&style=for-the-badge&logoColor=white
 [Pandas-url]: https://pandas.pydata.org/
 [Scikit-learn.org]: https://img.shields.io/badge/Scikit%20learn-orange?logo=Scikitlearn&style=for-the-badge&logoColor=white
 [Scikit-learn-url]: https://scikit-learn.org/
