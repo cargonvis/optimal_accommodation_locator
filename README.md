@@ -111,8 +111,9 @@ Run the following command to install the necessary libraries:
    jupyter lab main.ipynb
    ```
 4. Replace Variables:
-   In the code, replace the following variable at the top:
-	- GEOAPIFY_API_KEY: Replace with your Geoapify API key.
+   In the code, replace the following variables at the top:
+  - NAME_OF_PROJECT_IN_GEOAPIF_API: Replace with the name you chose for your project when creating your Geoapify API key
+	- GEOAPIFY_API_KEY: Replace with your Geoapify API key
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
